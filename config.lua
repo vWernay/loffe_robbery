@@ -25,6 +25,19 @@ Translation = {
         ['robbery'] = 'Robbery in progress',
         ['walked_too_far'] = 'You walked too far away!'
     },
+        ['br'] = {
+        ['shopkeeper'] = 'Trabalhador',
+        ['robbed'] = "Eu fui roubado e ~r~não tem ~w~dinheiro algum aqui!",
+        ['cashrecieved'] = 'Você conseguiu:',
+        ['currency'] = 'R$',
+        ['scared'] = 'Assustado:',
+        ['no_cops'] = 'Não há ~r~policiais~w~ suficientes online!',
+        ['cop_msg'] = 'Enviamos uma foto do ladrão tirada pela câmera de CFTV!',
+        ['set_waypoint'] = 'Definir rota para a loja',
+        ['hide_box'] = 'Fechar este aviso',
+        ['robbery'] = 'Assalto em andamento',
+        ['walked_too_far'] = 'Você saiu do perimetro!'
+    },
     ['sv'] = {
         ['shopkeeper'] = 'butiksbiträde',
         ['robbed'] = 'Jag blev precis rånad och har inga pengar kvar!',
